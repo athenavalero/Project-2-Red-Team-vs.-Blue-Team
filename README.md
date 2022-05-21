@@ -1,19 +1,19 @@
 ## Project-2-Red-Team-vs.-Blue-Team
 
-Day 3 Activity File: Reporting
+### Day 3 Activity File: Reporting
 Congratulations, you've made it! You've worn two hats this week, playing the roles of both attacker and defender. Don't underestimate the magnitude of this achievement: Learning enough to infiltrate a machine and analyze data collected during the attack is a milestone that takes many professionals a long time to achieve.
 Today, you'll take a break from flexing your technical skills and focus on communicating what you've learned in the past two days. In a real engagement, your client pays you not to break into their network, but to teach them how to protect it. This is why communication skills are vital in the cybersecurity field.
 To that end, you will summarize your work in a presentation containing the following sections:
 
 
-Network Topology
+#### Network Topology
 
 What are the addresses and relationships of the machines involved?
 All of the VMs in the attack should be described. Optionally, you can also include the hypervisor machine itself.
 
 
 
-Red Team
+#### Red Team
 
 What were the three most critical vulnerabilities you discovered?
 
@@ -23,14 +23,14 @@ Choose the three vulnerabilities that you consider to be most critical.
 
 
 
-Blue Team
+#### Blue Team
 
 What evidence did you find in the logs of the attack?
 What data should you be monitoring to detect these attacks next time?
 
 
 
-Mitigation
+### Mitigation
 
 What alarms should you set to detect this behavior next time?
 What controls should you  put in place on the target to prevent the attack from happening?
@@ -38,7 +38,7 @@ What controls should you  put in place on the target to prevent the attack from 
 
 
 
-Instructions
+### Instructions
 Open the template on Google Slides: Project 2 Report Template
 
 
