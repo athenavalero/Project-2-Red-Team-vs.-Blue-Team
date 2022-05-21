@@ -1,6 +1,9 @@
 ## Project-2-Red-Team-vs.-Blue-Team
 
 ### Day 3 Activity File: Reporting
+
+[Project 2_Athena Valero.pdf]([https://github.com/athenavalero/CyberSecurityBootcampHW/blob/main/Homework17/Homework%2017_Penetration%20Test%20Report.docx](https://github.com/athenavalero/Project-2-Red-Team-vs.-Blue-Team/blob/main/Project%202_Athena%20Valero.pdf)
+
 Congratulations, you've made it! You've worn two hats this week, playing the roles of both attacker and defender. Don't underestimate the magnitude of this achievement: Learning enough to infiltrate a machine and analyze data collected during the attack is a milestone that takes many professionals a long time to achieve.
 Today, you'll take a break from flexing your technical skills and focus on communicating what you've learned in the past two days. In a real engagement, your client pays you not to break into their network, but to teach them how to protect it. This is why communication skills are vital in the cybersecurity field.
 To that end, you will summarize your work in a presentation containing the following sections:
